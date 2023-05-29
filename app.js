@@ -1,3 +1,4 @@
+//alert message 
 function welcome() {
   alert("Sunshine is a welcome thing. It brings a lot of brightness");
 }
