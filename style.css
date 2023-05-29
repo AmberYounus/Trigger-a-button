@@ -1,1 +1,23 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,  ;
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(166, 106, 196));
+}
+h1{
+    text-align: center;
+    margin-top: 310px;
+    color: rgb(139, 78, 200);
+    font-size: 28px;
+}
+input{
+    border: none;
+    font-size: 18px;
+}
+button{
+    border: none;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 18px;
+}
+
 
